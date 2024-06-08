@@ -1,7 +1,3 @@
-Here's a sample README file for your project:
-
----
-
 # Chat with PDF
 
 Chat with PDF is a Streamlit application that allows users to upload a PDF, select the Gemini model, enter a query, and receive results. The app leverages the LangChain framework to handle various tasks related to text processing and interaction with the Gemini model.
@@ -49,5 +45,3 @@ The application is deployed on Streamlit and can be accessed using the following
 Special thanks to the developers of the LangChain framework and Streamlit for providing the tools necessary to build this application.
 
 ---
-
-Feel free to customize this README file further to match your project's specific details and requirements.
